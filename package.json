@@ -1,0 +1,29 @@
+{
+  "name": "is-acronym",
+  "version": "0.0.0",
+  "description": "Determines whether a given string is a common English acronym.",
+  "main": "index.js",
+  "repository": "transitive-bullshit/is-acronym",
+  "author": "Travis Fischer <travis@automagical.ai>",
+  "license": "MIT",
+  "reveal": true,
+  "scripts": {
+    "docs": "update-markdown-jsdoc --no-markdown-toc",
+    "test": "ava && standard"
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "keywords": [
+    "acronym",
+    "acronyms",
+    "is-acronym"
+  ],
+  "devDependencies": {
+    "ava": "^0.25.0",
+    "standard": "^11.0.0",
+    "update-markdown-jsdoc": "^1.0.6"
+  },
+  "dependencies": {
+  }
+}
