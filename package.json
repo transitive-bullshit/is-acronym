@@ -1,6 +1,6 @@
 {
   "name": "is-acronym",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Determines whether a given string is a common English acronym.",
   "main": "index.js",
   "repository": "transitive-bullshit/is-acronym",
@@ -24,6 +24,5 @@
     "standard": "^11.0.0",
     "update-markdown-jsdoc": "^1.0.6"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
